@@ -1,4 +1,4 @@
-# Friday Night Funkin' - Psych Engine
+# Friday Night Funkin' - Psych Engine 0.7.3 Mobile No Mod Folder
 Engine originally used on [Mind Games Mod](https://gamebanana.com/mods/301107), intended to be a fix for the vanilla version's many issues while keeping the casual play aspect of it. Also aiming to be an easier alternative to newbie coders.
 
 ## Installation:
@@ -20,6 +20,9 @@ after that in assets/shared/weeks with the jsons of the weeks already added modi
 
 After all the files are placed and configured, go to actions, select build android and press run workflow. After finishing, it will generate the apk in the output.
 
+## Bugs
+any bugs report in "issues"
+
 ## Customization:
 
 if you wish to disable things like *Lua Scripts* or *Video Cutscenes*, you can read over to `Project.xml`
@@ -32,6 +35,9 @@ same goes for *Lua Scripts*, comment out or delete the line with `LUA_ALLOWED`, 
 
 ## DISCLAIMER
 credits to everyone I mentioned in the android port credits when using this
+
+## Contact me
+https://discord.gg/kEvAMCT6qz
 
 ## Credits:
 * Shadow Mario - Programmer
