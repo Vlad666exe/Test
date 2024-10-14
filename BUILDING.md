@@ -1,5 +1,11 @@
 # Psych Engine Build Instructions
 
+
+# Android
+
+Just run actions to build it
+
+
 * [Dependencies](#dependencies)
 * [Building](#building)
 
