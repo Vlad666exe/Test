@@ -5,6 +5,21 @@ Engine originally used on [Mind Games Mod](https://gamebanana.com/mods/301107), 
 
 Refer to [the Build Instructions](./BUILDING.md)
 
+## About This
+and a customized version of the psych engine only supports mods in assets/shared, it was made so that you can compile Friday Night Funkin mod apks, below are instructions on how to do this
+
+## How to use
+
+First step, download the desired mod from the gamebana or gamejolt website (the Mod must be from psych engine 0.7+)
+
+after that extract in assets/songs add the mod's songs
+
+and then in assets/shared put the rest of the mod assets custom_events, data, custom_notetypes, scripts, weeks etc.
+
+after that in assets/shared/weeks with the jsons of the weeks already added modify the txt and put the name of the desired week in the txt example json name and week8.json put "week8" without the .json
+
+After all the files are placed and configured, go to actions, select build android and press run workflow. After finishing, it will generate the apk in the output.
+
 ## Customization:
 
 if you wish to disable things like *Lua Scripts* or *Video Cutscenes*, you can read over to `Project.xml`
@@ -15,10 +30,17 @@ to start you off, disabling Videos should be simple, simply Delete the line `"VI
 
 same goes for *Lua Scripts*, comment out or delete the line with `LUA_ALLOWED`, this and other customization options are all available within the `Project.xml` file
 
+## DISCLAIMER
+credits to everyone I mentioned in the android port credits when using this
+
 ## Credits:
 * Shadow Mario - Programmer
 * Riveren - Artist
-
+* Jose (Mobile Port)
+* idklool some codes
+* Sirox Generic
+* lily Linc_luajit
+* karim akira Controls Code
 ### Special Thanks
 * bbpanzu - Ex-Programmer
 * Yoshubs - Ex-Programmer
