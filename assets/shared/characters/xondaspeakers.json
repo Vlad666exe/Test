@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-1,
+				1
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				96,
+				49
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				51,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				9,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-3,
+				60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				-29,
+				-28
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "tryagain",
+			"indices": [],
+			"name": "tryhardanim"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/xdobeondaspeakerstho",
+	"position": [
+		160,
+		160
+	],
+	"healthicon": "x-new",
+	"flip_x": false,
+	"healthbar_colors": [
+		28,
+		24,
+		113
+	],
+	"camera_position": [
+		-140,
+		-100
+	],
+	"sing_duration": 3.00000000000001,
+	"scale": 2
+}

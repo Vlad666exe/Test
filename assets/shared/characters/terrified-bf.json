@@ -14,7 +14,7 @@
 		{
 			"loop": false,
 			"offsets": [
-				5,
+				-8,
 				-6
 			],
 			"anim": "singLEFT",
@@ -36,7 +36,7 @@
 		{
 			"loop": false,
 			"offsets": [
-				-46,
+				-36,
 				27
 			],
 			"anim": "singUP",
@@ -58,7 +58,7 @@
 		{
 			"loop": false,
 			"offsets": [
-				7,
+				-9,
 				19
 			],
 			"anim": "singLEFTmiss",
@@ -80,7 +80,7 @@
 		{
 			"loop": false,
 			"offsets": [
-				-46,
+				-38,
 				27
 			],
 			"anim": "singUPmiss",
@@ -98,81 +98,15 @@
 			"fps": 24,
 			"name": "BF NOTE RIGHT MISS",
 			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-3,
-				5
-			],
-			"anim": "hey",
-			"fps": 24,
-			"name": "BF HEY",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				14,
-				18
-			],
-			"anim": "hurt",
-			"fps": 24,
-			"name": "BF hit",
-			"indices": []
-		},
-		{
-			"loop": true,
-			"offsets": [
-				-4,
-				0
-			],
-			"anim": "scared",
-			"fps": 24,
-			"name": "BF idle shaking",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-10,
-				-16
-			],
-			"anim": "dodge",
-			"fps": 24,
-			"name": "boyfriend dodge",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				294,
-				267
-			],
-			"anim": "attack",
-			"fps": 24,
-			"name": "boyfriend attack",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-40,
-				-40
-			],
-			"anim": "pre-attack",
-			"fps": 24,
-			"name": "bf pre attack",
-			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/BOYFRIEND",
+	"image": "characters/terrified-bf",
 	"position": [
 		100,
 		450
 	],
-	"healthicon": "bf",
+	"healthicon": "terrified-bf",
 	"flip_x": true,
 	"healthbar_colors": [
 		49,
