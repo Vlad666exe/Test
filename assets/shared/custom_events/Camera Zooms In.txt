@@ -1,0 +1,2 @@
+Value 1: Timer
+Value 2: How much you wanna zoom in

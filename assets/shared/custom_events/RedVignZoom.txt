@@ -1,0 +1,6 @@
+Value 1: Camera zoom add (Default: 0.015)
+
+Value 2: UI zoom add (Default: 0.03)
+
+It's like the Add Camera Zoom event, but with a red 
+vignette added.

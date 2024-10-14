@@ -1,0 +1,4 @@
+value1 (amount of the glitch) = amount, time (in Steps), tween ease;
+value2 (speed of the glitch) = amount, time (in Steps), tween ease;
+
+it should look like this example --> ("0.3, 12, bounceIn")
