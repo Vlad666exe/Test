@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="cameosexe.png">
+<SubTexture name="exespawn0000" x="0" y="1011" width="463" height="484" frameX="-304" frameY="-71" frameWidth="960" frameHeight="540" />
+<SubTexture name="exespawn0001" x="0" y="1011" width="463" height="484" frameX="-304" frameY="-71" frameWidth="960" frameHeight="540" />
+<SubTexture name="exespawn0002" x="463" y="1011" width="463" height="484" frameX="-304" frameY="-71" frameWidth="960" frameHeight="540" />
+<SubTexture name="exespawn0003" x="926" y="1011" width="453" height="484" frameX="-314" frameY="-71" frameWidth="960" frameHeight="540" />
+<SubTexture name="exespawn0004" x="1286" y="493" width="442" height="483" frameX="-324" frameY="-72" frameWidth="960" frameHeight="540" />
+<SubTexture name="exespawn0005" x="841" y="0" width="444" height="493" frameX="-321" frameY="-62" frameWidth="960" frameHeight="540" />
+<SubTexture name="exespawn0006" x="0" y="518" width="444" height="493" frameX="-321" frameY="-62" frameWidth="960" frameHeight="540" />
+<SubTexture name="exespawn0007" x="0" y="518" width="444" height="493" frameX="-321" frameY="-62" frameWidth="960" frameHeight="540" />
+<SubTexture name="exespawn0008" x="444" y="518" width="444" height="493" frameX="-321" frameY="-62" frameWidth="960" frameHeight="540" />
+<SubTexture name="exespawn0009" x="1286" y="0" width="444" height="493" frameX="-321" frameY="-62" frameWidth="960" frameHeight="540" />
+<SubTexture name="exespawn0010" x="2341" y="448" width="28" height="107" frameX="-484" frameY="-233" frameWidth="960" frameHeight="540" />
+<SubTexture name="exespawn0011" x="435" y="0" width="406" height="517" frameX="-263" frameY="-38" frameWidth="960" frameHeight="540" />
+<SubTexture name="exespawn0012" x="0" y="0" width="435" height="518" frameX="-223" frameY="-37" frameWidth="960" frameHeight="540" />
+<SubTexture name="exespawn0013" x="1730" y="0" width="470" height="473" frameX="-174" frameY="-82" frameWidth="960" frameHeight="540" />
+<SubTexture name="exespawn0014" x="0" y="1495" width="475" height="467" frameX="-170" frameY="-88" frameWidth="960" frameHeight="540" />
+<SubTexture name="exespawn0015" x="475" y="1495" width="475" height="457" frameX="-165" frameY="-98" frameWidth="960" frameHeight="540" />
+<SubTexture name="exespawn0016" x="2201" y="0" width="476" height="448" frameX="-161" frameY="-107" frameWidth="960" frameHeight="540" />
+<SubTexture name="exespawn0017" x="0" y="1963" width="477" height="441" frameX="-158" frameY="-114" frameWidth="960" frameHeight="540" />
+<SubTexture name="exespawn0018" x="477" y="1963" width="476" height="441" frameX="-158" frameY="-114" frameWidth="960" frameHeight="540" />
+<SubTexture name="exespawn0019" x="2201" y="448" width="140" height="149" frameX="-398" frameY="-207" frameWidth="960" frameHeight="540" />
+<SubTexture name="exespawn0020" x="1730" y="473" width="326" height="461" frameX="-345" frameY="-94" frameWidth="960" frameHeight="540" />
+<SubTexture name="exespawn0021" x="1730" y="934" width="327" height="459" frameX="-349" frameY="-96" frameWidth="960" frameHeight="540" />
+<SubTexture name="exespawn0022" x="1379" y="1011" width="328" height="457" frameX="-353" frameY="-98" frameWidth="960" frameHeight="540" />
+<SubTexture name="exespawn0023" x="1302" y="1495" width="334" height="455" frameX="-356" frameY="-100" frameWidth="960" frameHeight="540" />
+<SubTexture name="exespawn0024" x="1636" y="1495" width="343" height="455" frameX="-356" frameY="-100" frameWidth="960" frameHeight="540" />
+<SubTexture name="exespawn0025" x="950" y="1495" width="352" height="456" frameX="-357" frameY="-99" frameWidth="960" frameHeight="540" />
+<SubTexture name="exespawn0026" x="889" y="518" width="360" height="458" frameX="-357" frameY="-97" frameWidth="960" frameHeight="540" />
+<SubTexture name="exespawn0027" x="889" y="518" width="360" height="458" frameX="-357" frameY="-97" frameWidth="960" frameHeight="540" />
+<SubTexture name="exespawn0028" x="889" y="518" width="360" height="458" frameX="-357" frameY="-97" frameWidth="960" frameHeight="540" />
+<SubTexture name="exespawn0029" x="889" y="518" width="360" height="458" frameX="-357" frameY="-97" frameWidth="960" frameHeight="540" />
+<SubTexture name="exespawn0030" x="889" y="518" width="360" height="458" frameX="-357" frameY="-97" frameWidth="960" frameHeight="540" />
+</TextureAtlas>
