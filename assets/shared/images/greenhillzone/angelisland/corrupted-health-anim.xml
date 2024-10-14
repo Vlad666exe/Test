@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="corrupted-health-anim.png">
+<SubTexture name="healthGainLost0000" x="0" y="101" width="605" height="32" frameX="-2" frameY="-1" frameWidth="605" frameHeight="25" />
+<SubTexture name="healthGainLost0001" x="0" y="101" width="605" height="32" frameX="-2" frameY="-1" frameWidth="605" frameHeight="25" />
+<SubTexture name="healthGainLost0002" x="0" y="101" width="605" height="32" frameX="-2" frameY="-1" frameWidth="605" frameHeight="25" />
+<SubTexture name="healthGainLost0003" x="0" y="101" width="605" height="32" frameX="-2" frameY="-1" frameWidth="605" frameHeight="25" />
+<SubTexture name="healthGainLost0004" x="0" y="101" width="605" height="32" frameX="-2" frameY="-1" frameWidth="605" frameHeight="25" />
+<SubTexture name="healthGainLost0005" x="0" y="101" width="605" height="32" frameX="-2" frameY="-1" frameWidth="605" frameHeight="25" />
+<SubTexture name="healthGainLost0006" x="0" y="101" width="605" height="32" frameX="-2" frameY="-1" frameWidth="605" frameHeight="25" />
+<SubTexture name="healthGainLost0007" x="0" y="101" width="605" height="32" frameX="-2" frameY="-1" frameWidth="605" frameHeight="25" />
+<SubTexture name="healthGainLost0008" x="0" y="101" width="605" height="32" frameX="-2" frameY="-1" frameWidth="605" frameHeight="25" />
+<SubTexture name="healthGainLost0009" x="0" y="101" width="605" height="32" frameX="-2" frameY="-1" frameWidth="605" frameHeight="25" />
+<SubTexture name="healthGainLost0010" x="0" y="101" width="605" height="32" frameX="-2" frameY="-1" frameWidth="605" frameHeight="25" />
+<SubTexture name="healthGainLost0011" x="0" y="101" width="605" height="32" frameX="-2" frameY="-1" frameWidth="605" frameHeight="25" />
+<SubTexture name="healthGainLost0012" x="0" y="101" width="605" height="32" frameX="-2" frameY="-1" frameWidth="605" frameHeight="25" />
+<SubTexture name="healthGainLost0013" x="0" y="35" width="614" height="33" frameX="-1" frameY="-1" frameWidth="605" frameHeight="25" />
+<SubTexture name="healthGainLost0014" x="0" y="35" width="614" height="33" frameX="-1" frameY="-1" frameWidth="605" frameHeight="25" />
+<SubTexture name="healthGainLost0015" x="0" y="35" width="614" height="33" frameX="-1" frameY="-1" frameWidth="605" frameHeight="25" />
+<SubTexture name="healthGainLost0016" x="0" y="35" width="614" height="33" frameX="-1" frameY="-1" frameWidth="605" frameHeight="25" />
+<SubTexture name="healthGainLost0017" x="0" y="35" width="614" height="33" frameX="-1" frameY="-1" frameWidth="605" frameHeight="25" />
+<SubTexture name="healthGainLost0018" x="0" y="35" width="614" height="33" frameX="-1" frameY="-1" frameWidth="605" frameHeight="25" />
+<SubTexture name="healthGainLost0019" x="0" y="35" width="614" height="33" frameX="-1" frameY="-1" frameWidth="605" frameHeight="25" />
+<SubTexture name="healthGainLost0020" x="0" y="35" width="614" height="33" frameX="-1" frameY="-1" frameWidth="605" frameHeight="25" />
+<SubTexture name="healthGainLost0021" x="0" y="35" width="614" height="33" frameX="-1" frameY="-1" frameWidth="605" frameHeight="25" />
+<SubTexture name="healthGainLost0022" x="0" y="35" width="614" height="33" frameX="-1" frameY="-1" frameWidth="605" frameHeight="25" />
+<SubTexture name="healthGainLost0023" x="0" y="35" width="614" height="33" frameX="-1" frameY="-1" frameWidth="605" frameHeight="25" />
+<SubTexture name="healthGainLost0024" x="0" y="35" width="614" height="33" frameX="-1" frameY="-1" frameWidth="605" frameHeight="25" />
+<SubTexture name="healthGainLost0025" x="0" y="35" width="614" height="33" frameX="-1" frameY="-1" frameWidth="605" frameHeight="25" />
+<SubTexture name="healthGainLost0026" x="0" y="68" width="614" height="33" frameX="-1" frameY="-1" frameWidth="605" frameHeight="25" />
+<SubTexture name="healthGainLost0027" x="0" y="68" width="614" height="33" frameX="-1" frameY="-1" frameWidth="605" frameHeight="25" />
+<SubTexture name="healthGainLost0028" x="0" y="68" width="614" height="33" frameX="-1" frameY="-1" frameWidth="605" frameHeight="25" />
+<SubTexture name="healthGainLost0029" x="0" y="68" width="614" height="33" frameX="-1" frameY="-1" frameWidth="605" frameHeight="25" />
+<SubTexture name="healthGainLost0030" x="0" y="68" width="614" height="33" frameX="-1" frameY="-1" frameWidth="605" frameHeight="25" />
+<SubTexture name="healthGainLost0031" x="0" y="68" width="614" height="33" frameX="-1" frameY="-1" frameWidth="605" frameHeight="25" />
+<SubTexture name="healthGainLost0032" x="0" y="68" width="614" height="33" frameX="-1" frameY="-1" frameWidth="605" frameHeight="25" />
+<SubTexture name="healthGainLost0033" x="0" y="68" width="614" height="33" frameX="-1" frameY="-1" frameWidth="605" frameHeight="25" />
+<SubTexture name="healthGainLost0034" x="0" y="68" width="614" height="33" frameX="-1" frameY="-1" frameWidth="605" frameHeight="25" />
+<SubTexture name="healthGainLost0035" x="0" y="68" width="614" height="33" frameX="-1" frameY="-1" frameWidth="605" frameHeight="25" />
+<SubTexture name="healthGainLost0036" x="0" y="68" width="614" height="33" frameX="-1" frameY="-1" frameWidth="605" frameHeight="25" />
+<SubTexture name="healthGainLost0037" x="0" y="68" width="614" height="33" frameX="-1" frameY="-1" frameWidth="605" frameHeight="25" />
+<SubTexture name="healthGainLost0038" x="0" y="0" width="615" height="35" frameX="0" frameY="0" frameWidth="605" frameHeight="25" />
+<SubTexture name="healthGainLostKeep0000" x="0" y="0" width="615" height="35" frameX="0" frameY="0" frameWidth="605" frameHeight="25" />
+</TextureAtlas>

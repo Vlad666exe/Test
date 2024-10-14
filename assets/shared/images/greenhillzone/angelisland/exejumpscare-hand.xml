@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="exejumpscare-hand.png">
+<SubTexture name="pre0000" x="0" y="0" width="249" height="437" frameX="0" frameY="0" frameWidth="234" frameHeight="422" />
+<SubTexture name="pre0001" x="249" y="0" width="249" height="437" frameX="0" frameY="0" frameWidth="234" frameHeight="422" />
+<SubTexture name="pre0002" x="499" y="0" width="249" height="437" frameX="0" frameY="0" frameWidth="234" frameHeight="422" />
+<SubTexture name="post0000" x="748" y="0" width="249" height="437" frameX="0" frameY="0" frameWidth="234" frameHeight="422" />
+<SubTexture name="post0001" x="0" y="437" width="249" height="437" frameX="0" frameY="0" frameWidth="234" frameHeight="422" />
+<SubTexture name="post0002" x="249" y="437" width="249" height="437" frameX="0" frameY="0" frameWidth="234" frameHeight="422" />
+</TextureAtlas>
