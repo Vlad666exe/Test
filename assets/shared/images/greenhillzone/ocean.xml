@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="ocean.png">
+<SubTexture name="sinking0000" x="0" y="0" width="1098" height="331" frameX="0" frameY="0" frameWidth="1093" frameHeight="326" />
+<SubTexture name="sinking0001" x="0" y="0" width="1098" height="331" frameX="0" frameY="0" frameWidth="1093" frameHeight="326" />
+<SubTexture name="sinking0002" x="0" y="331" width="1098" height="331" frameX="0" frameY="0" frameWidth="1093" frameHeight="326" />
+<SubTexture name="sinking0003" x="0" y="331" width="1098" height="331" frameX="0" frameY="0" frameWidth="1093" frameHeight="326" />
+<SubTexture name="sinking0004" x="0" y="663" width="1098" height="331" frameX="0" frameY="0" frameWidth="1093" frameHeight="326" />
+<SubTexture name="sinking0005" x="0" y="663" width="1098" height="331" frameX="0" frameY="0" frameWidth="1093" frameHeight="326" />
+<SubTexture name="sinking0006" x="1098" y="0" width="1098" height="331" frameX="0" frameY="0" frameWidth="1093" frameHeight="326" />
+<SubTexture name="sinking0007" x="1098" y="0" width="1098" height="331" frameX="0" frameY="0" frameWidth="1093" frameHeight="326" />
+<SubTexture name="sinking0008" x="1098" y="331" width="1098" height="331" frameX="0" frameY="0" frameWidth="1093" frameHeight="326" />
+<SubTexture name="sinking0009" x="2196" y="331" width="1098" height="331" frameX="0" frameY="0" frameWidth="1093" frameHeight="326" />
+<SubTexture name="sinking0010" x="1098" y="663" width="1098" height="331" frameX="0" frameY="0" frameWidth="1093" frameHeight="326" />
+<SubTexture name="sinking0011" x="1098" y="663" width="1098" height="331" frameX="0" frameY="0" frameWidth="1093" frameHeight="326" />
+<SubTexture name="sinking0012" x="0" y="994" width="1098" height="331" frameX="0" frameY="0" frameWidth="1093" frameHeight="326" />
+<SubTexture name="sinking0013" x="0" y="994" width="1098" height="331" frameX="0" frameY="0" frameWidth="1093" frameHeight="326" />
+<SubTexture name="sinking0014" x="1098" y="994" width="1098" height="331" frameX="0" frameY="0" frameWidth="1093" frameHeight="326" />
+<SubTexture name="sinking0015" x="1098" y="994" width="1098" height="331" frameX="0" frameY="0" frameWidth="1093" frameHeight="326" />
+<SubTexture name="sinking0016" x="0" y="1326" width="1098" height="331" frameX="0" frameY="0" frameWidth="1093" frameHeight="326" />
+<SubTexture name="sinking0017" x="0" y="1326" width="1098" height="331" frameX="0" frameY="0" frameWidth="1093" frameHeight="326" />
+<SubTexture name="sinking0018" x="1098" y="1326" width="1098" height="331" frameX="0" frameY="0" frameWidth="1093" frameHeight="326" />
+<SubTexture name="sinking0019" x="1098" y="1326" width="1098" height="331" frameX="0" frameY="0" frameWidth="1093" frameHeight="326" />
+<SubTexture name="sinking0020" x="0" y="1657" width="1098" height="331" frameX="0" frameY="0" frameWidth="1093" frameHeight="326" />
+<SubTexture name="sinking0021" x="0" y="1657" width="1098" height="331" frameX="0" frameY="0" frameWidth="1093" frameHeight="326" />
+<SubTexture name="sinking0022" x="1098" y="1657" width="1098" height="331" frameX="0" frameY="0" frameWidth="1093" frameHeight="326" />
+<SubTexture name="sinking0023" x="1098" y="1657" width="1098" height="331" frameX="0" frameY="0" frameWidth="1093" frameHeight="326" />
+<SubTexture name="sinking0024" x="2196" y="0" width="1098" height="331" frameX="0" frameY="0" frameWidth="1093" frameHeight="326" />
+<SubTexture name="sinking0025" x="2196" y="0" width="1098" height="331" frameX="0" frameY="0" frameWidth="1093" frameHeight="326" />
+</TextureAtlas>

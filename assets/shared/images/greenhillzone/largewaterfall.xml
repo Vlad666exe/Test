@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="largewaterfall.png">
+<SubTexture name="bigdrowning0000" x="0" y="112" width="189" height="112" frameX="-5" frameY="-1" frameWidth="178" frameHeight="97" />
+<SubTexture name="bigdrowning0001" x="0" y="112" width="189" height="112" frameX="-5" frameY="-1" frameWidth="178" frameHeight="97" />
+<SubTexture name="bigdrowning0002" x="0" y="224" width="189" height="111" frameX="-4" frameY="-1" frameWidth="178" frameHeight="97" />
+<SubTexture name="bigdrowning0003" x="0" y="224" width="189" height="111" frameX="-4" frameY="-1" frameWidth="178" frameHeight="97" />
+<SubTexture name="bigdrowning0004" x="0" y="0" width="191" height="112" frameX="-2" frameY="0" frameWidth="178" frameHeight="97" />
+<SubTexture name="bigdrowning0005" x="0" y="0" width="191" height="112" frameX="-2" frameY="0" frameWidth="178" frameHeight="97" />
+<SubTexture name="bigdrowning0006" x="189" y="112" width="193" height="112" frameX="0" frameY="-1" frameWidth="178" frameHeight="97" />
+<SubTexture name="bigdrowning0007" x="189" y="112" width="193" height="112" frameX="0" frameY="-1" frameWidth="178" frameHeight="97" />
+<SubTexture name="bigdrowning0008" x="189" y="224" width="193" height="111" frameX="-1" frameY="-1" frameWidth="178" frameHeight="97" />
+<SubTexture name="bigdrowning0009" x="189" y="224" width="193" height="111" frameX="-1" frameY="-1" frameWidth="178" frameHeight="97" />
+<SubTexture name="bigdrowning0010" x="191" y="0" width="193" height="112" frameX="0" frameY="0" frameWidth="178" frameHeight="97" />
+<SubTexture name="bigdrowning0011" x="191" y="0" width="193" height="112" frameX="0" frameY="0" frameWidth="178" frameHeight="97" />
+<SubTexture name="bigdrowning0012" x="385" y="0" width="193" height="111" frameX="0" frameY="-1" frameWidth="178" frameHeight="97" />
+<SubTexture name="bigdrowning0013" x="385" y="0" width="193" height="111" frameX="0" frameY="-1" frameWidth="178" frameHeight="97" />
+</TextureAtlas>

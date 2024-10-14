@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="me.png">
+<SubTexture name="red0000" x="180" y="90" width="140" height="82" frameX="-49" frameY="-4" frameWidth="219" frameHeight="80" />
+<SubTexture name="red0001" x="0" y="0" width="176" height="90" frameX="-31" frameY="0" frameWidth="219" frameHeight="80" />
+<SubTexture name="red0002" x="176" y="0" width="179" height="90" frameX="-30" frameY="0" frameWidth="219" frameHeight="80" />
+<SubTexture name="red0003" x="0" y="90" width="180" height="90" frameX="-29" frameY="0" frameWidth="219" frameHeight="80" />
+<SubTexture name="red0004" x="0" y="180" width="181" height="90" frameX="-29" frameY="0" frameWidth="219" frameHeight="80" />
+<SubTexture name="red0005" x="355" y="0" width="181" height="90" frameX="-29" frameY="0" frameWidth="219" frameHeight="80" />
+<SubTexture name="red0006" x="355" y="90" width="181" height="90" frameX="-29" frameY="0" frameWidth="219" frameHeight="80" />
+<SubTexture name="red0007" x="355" y="180" width="181" height="90" frameX="-29" frameY="0" frameWidth="219" frameHeight="80" />
+<SubTexture name="red0008" x="0" y="270" width="183" height="90" frameX="-28" frameY="0" frameWidth="219" frameHeight="80" />
+<SubTexture name="red0009" x="183" y="270" width="183" height="90" frameX="-28" frameY="0" frameWidth="219" frameHeight="80" />
+<SubTexture name="red0010" x="0" y="360" width="183" height="90" frameX="-28" frameY="0" frameWidth="219" frameHeight="80" />
+<SubTexture name="red0011" x="183" y="360" width="183" height="90" frameX="-28" frameY="0" frameWidth="219" frameHeight="80" />
+<SubTexture name="red0012" x="536" y="0" width="183" height="90" frameX="-28" frameY="0" frameWidth="219" frameHeight="80" />
+<SubTexture name="red0013" x="536" y="90" width="183" height="90" frameX="-28" frameY="0" frameWidth="219" frameHeight="80" />
+<SubTexture name="red0014" x="536" y="180" width="183" height="90" frameX="-28" frameY="0" frameWidth="219" frameHeight="80" />
+<SubTexture name="red0015" x="536" y="270" width="183" height="90" frameX="-28" frameY="0" frameWidth="219" frameHeight="80" />
+<SubTexture name="red0016" x="536" y="360" width="183" height="90" frameX="-28" frameY="0" frameWidth="219" frameHeight="80" />
+</TextureAtlas>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="rockswithwater.png">
+<SubTexture name="drowning0000" x="0" y="0" width="2196" height="325" frameX="0" frameY="0" frameWidth="2186" frameHeight="315" />
+<SubTexture name="drowning0001" x="0" y="0" width="2196" height="325" frameX="0" frameY="0" frameWidth="2186" frameHeight="315" />
+<SubTexture name="drowning0002" x="0" y="325" width="2196" height="325" frameX="0" frameY="0" frameWidth="2186" frameHeight="315" />
+<SubTexture name="drowning0003" x="0" y="325" width="2196" height="325" frameX="0" frameY="0" frameWidth="2186" frameHeight="315" />
+<SubTexture name="drowning0004" x="0" y="650" width="2196" height="325" frameX="0" frameY="0" frameWidth="2186" frameHeight="315" />
+<SubTexture name="drowning0005" x="0" y="650" width="2196" height="325" frameX="0" frameY="0" frameWidth="2186" frameHeight="315" />
+<SubTexture name="drowning0006" x="0" y="975" width="2196" height="325" frameX="0" frameY="0" frameWidth="2186" frameHeight="315" />
+<SubTexture name="drowning0007" x="0" y="975" width="2196" height="325" frameX="0" frameY="0" frameWidth="2186" frameHeight="315" />
+<SubTexture name="drowning0008" x="0" y="1300" width="2196" height="325" frameX="0" frameY="0" frameWidth="2186" frameHeight="315" />
+<SubTexture name="drowning0009" x="0" y="1300" width="2196" height="325" frameX="0" frameY="0" frameWidth="2186" frameHeight="315" />
+<SubTexture name="drowning0010" x="0" y="1625" width="2196" height="325" frameX="0" frameY="0" frameWidth="2186" frameHeight="315" />
+<SubTexture name="drowning0011" x="0" y="1625" width="2196" height="325" frameX="0" frameY="0" frameWidth="2186" frameHeight="315" />
+<SubTexture name="drowning0012" x="2196" y="0" width="2196" height="325" frameX="0" frameY="0" frameWidth="2186" frameHeight="315" />
+<SubTexture name="drowning0013" x="2196" y="325" width="2196" height="325" frameX="0" frameY="0" frameWidth="2186" frameHeight="315" />
+</TextureAtlas>
